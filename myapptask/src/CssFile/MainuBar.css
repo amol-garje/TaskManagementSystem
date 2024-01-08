@@ -1,0 +1,23 @@
+body{
+       background-color: aliceblue;
+}
+.mb1{
+       height: 80px;
+       border: 1px solid black;
+       background-color: rgb(58, 87, 139);
+}
+.mb3{
+       /* color: rgb(10, 10, 10); */
+       display: flex;
+       flex-direction: row;
+       justify-content: space-evenly;
+      
+
+}
+img{
+       width: 160px;
+}
+.a1{
+        color: rgb(253, 246, 246); 
+        text-decoration: none;
+}

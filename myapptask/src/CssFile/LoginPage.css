@@ -1,0 +1,45 @@
+.laginfirst{
+    border: 1px solid red;
+    height: 90vh;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+}
+.fieldset{
+     /* display: inline;  */
+     padding: 20px;   
+     width: fit-content;
+     height: fit-content;
+}
+.tr input{
+    width: 20vw;
+}
+#sub{
+    width: 30vw;
+}
+@media screen and (max-width:475px){
+
+    .tr input{
+        width: 28vw;
+        background-color: bisque;
+    }
+
+    #sub{
+        width: 50vw;
+    }
+}
+#sub:focus{
+   background-color: rgb(241, 209, 240);
+}
+.fieldset:hover{
+    background-color: rgb(173, 192, 140);
+}
+
+.reglgi{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px;
+
+}

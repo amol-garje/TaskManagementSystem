@@ -1,0 +1,28 @@
+.home2{
+     text-align: center;
+     font-size: 35px;
+     padding: 30px;
+}
+.home3{
+    width: 370px;
+    height: 210px;
+    padding: 20px;
+    background-color: beige;
+    border: 1px solid black;
+    margin-left: 5vw;
+}
+.home4{
+    width: 370px;
+    height: 210px;
+    padding: 20px;
+    background-color: beige;
+    border: 1px solid black;
+    float: right;
+    margin-right: 5vw;
+}
+
+.ol{
+    float: right;
+    clear: both;
+    position: fixed;
+}

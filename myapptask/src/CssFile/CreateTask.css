@@ -1,0 +1,14 @@
+.creattsk1{
+    background-color: cadetblue;
+    width: fit-content;
+    padding: 20px;
+    align-self: center;
+    position: absolute;
+    left: 21vw;
+    top: 15vw;
+}
+
+#tsksub{
+    width: 19vw;
+    margin-top: 25px;
+}

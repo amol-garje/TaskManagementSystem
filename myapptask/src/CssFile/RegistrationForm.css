@@ -1,0 +1,37 @@
+.registerfirst{
+    border: 1px solid red;
+    height: 90vh;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+}
+.regifieldset{
+     /* display: inline;  */
+     /* padding: 20px;    */
+     width: fit-content;
+     height: fit-content;
+}
+#regsub{
+    width: 19vw;
+    margin: 10px;
+}
+@media screen and (max-width:445px){
+    #regsub{
+        width: 70vw;
+    }
+ 
+}
+#regsub:focus{
+   background-color: rgb(241, 209, 240);
+}
+.regifieldset:hover{
+    background-color: rgb(173, 192, 140);
+}
+.lgi{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px;
+
+}

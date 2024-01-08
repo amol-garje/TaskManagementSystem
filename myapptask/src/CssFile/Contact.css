@@ -1,0 +1,17 @@
+.contactform{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height:  60vh;
+    margin: 20px;
+    border: 1px solid red;
+    background-color: cadetblue;
+}
+
+.contactsubbtn{
+    padding-top: 30px;
+}
+.contactsubbtn input{
+    width: 130px;
+}

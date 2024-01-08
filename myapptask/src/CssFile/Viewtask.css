@@ -1,0 +1,16 @@
+.viewtable1{
+    background-color: teal;
+    width: fit-content;
+    position: relative;
+    left: 10vw;
+    top: 4vh;
+}
+th{
+    padding: 3px;
+    text-align: center;
+}
+.tda{
+    color: wheat;
+    padding: 5px;
+    text-align: center;
+}
