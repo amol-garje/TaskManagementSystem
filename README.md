@@ -2,7 +2,7 @@
  ### ResoTechSolutions:
  #### *Spring Boot and ReactJS web application for task management .*
 ## Demo
-
+![DEMO](video/demo.mp4)
 
 ## Introduction
 - Task management system is a demonstration web application developed for own project works where users can manage various tasks individualy.
