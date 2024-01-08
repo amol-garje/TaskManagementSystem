@@ -59,6 +59,10 @@
 -
 ![](img/db3.PNG)
 -
+## Swagger Config :
+- You Can Access Swagger Html Page After Running The Application
+- Firstly Go To Browser
+- Type  : http://localhost:8080/swagger-ui.html
 
 You can connect to me at [Linkedin](https://www.linkedin.com/in/amol-garje-21b92a231/)
   
